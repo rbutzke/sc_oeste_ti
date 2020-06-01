@@ -1,0 +1,28 @@
+{
+    "name": "sc_oeste_ti",
+    "version": "1.0.0",
+    "description": "Pagina destina a oportunidades de trabalho do Oeste \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~e\u001b[CTI do Oeste de SC",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rbutzke/sc_oeste_ti.git"
+    },
+    "author": "roberto butzke junior",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rbutzke/sc_oeste_ti/issues"
+    },
+    "homepage": "https://github.com/rbutzke/sc_oeste_ti#readme",
+    "dependencies": {
+        "body-parse": "^0.1.0",
+        "express": "^4.17.1",
+        "express-handlebars": "^4.0.4",
+        "mysql2": "^2.1.0",
+        "nodemon": "^2.0.4",
+        "sequelize": "^5.21.11"
+    }
+}
