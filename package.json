@@ -19,7 +19,7 @@
     "homepage": "https://github.com/rbutzke/sc_oeste_ti#readme",
     "dependencies": {
         "body-parse": "^0.1.0",
-        "express": "^4.17.1",
+        "express": "^4.18.2",
         "express-handlebars": "^4.0.4",
         "mysql2": "^2.1.0",
         "nodemon": "^2.0.4",
